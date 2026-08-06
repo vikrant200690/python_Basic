@@ -1,3 +1,4 @@
+# Program: Count duplicate elements in a list
 numbers= [10,20,30,10,40,30,50,50]
 
 duplicate_count=0
